@@ -1,4 +1,4 @@
-Une messagerie réaliser avec React
+Une messagerie réalisée avec React
 
 ![c1](https://user-images.githubusercontent.com/45632518/83876432-21302800-a739-11ea-957f-6bb51024c6f1.png)
 
